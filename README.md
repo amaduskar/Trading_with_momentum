@@ -1,9 +1,9 @@
 # Trading with momentum
-**
+
 Language Used: Python (Jupyter Notebook)
 
 Libraries: Pandas, Numpy, Matplotlib
-**
+
 
 Momentum is the rate of acceleration of a security's price—that is, the speed at which the price is changing. Momentum trading is a strategy that seeks to capitalize on momentum to enter a trend as it is picking up steam.
 
