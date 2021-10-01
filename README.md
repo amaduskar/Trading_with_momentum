@@ -1,6 +1,6 @@
 # Trading with momentum
-
-**Language Used: Python (Jupyter Notebook)
+**
+Language Used: Python (Jupyter Notebook)
 
 Libraries: Pandas, Numpy, Matplotlib
 **
